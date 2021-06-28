@@ -3,7 +3,7 @@ export const projectsData = [
         projectName: 'Covid 19 Tracker',
         projectDescription:
             'With the increase in the no. of Covid Cases worldwide, I have utilised the data to pictorally represent over a world map. Along with that a Bar graph and list of cities with top cases are also shown. Handled everything using ReactJs.',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj1.PNG',
+        imageUrl: 'https://user-images.githubusercontent.com/73716407/123677573-eaa4de00-d862-11eb-9845-7883822357dc.PNG',
         projectUrl: 'https://jithendrac.github.io/Covid19Tracker/',
     },
     {
@@ -42,7 +42,7 @@ export const projectsData = [
         projectName: 'Portfolio Website',
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you my website completely built using ReactJs.',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj5.PNG',
-        projectUrl: 'http://madhavbahl.tech/portfolio/',
+        imageUrl: 'https://user-images.githubusercontent.com/73716407/123677682-0c05ca00-d863-11eb-8575-1c090205294d.PNG',
+        projectUrl: 'https://jithendrac.github.io/portfolio',
     },
 ];
